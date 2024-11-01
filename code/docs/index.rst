@@ -6,8 +6,10 @@
 Basic ICMP Documentation
 ========================
 
-Please add your names and group ID here by editing `index.rst` in the docs folder.
 
+*Enes Onbaşı* \\
+*Ahmet Büyükyılmaz* \\
+*Group 75*
 
 .. toctree::
    :maxdepth: 2
